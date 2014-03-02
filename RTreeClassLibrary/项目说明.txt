@@ -1,0 +1,4 @@
+﻿本项目修改自NuGet上R-Tree类库（NuGet链接：http://www.nuget.org/packages/RTree/ 源代码链接：http://sourceforge.net/projects/cspatialindexrt/?source=dlp 作者博客链接：http://uhurumkate.blogspot.com/2009/04/rtree.html ）的代码：
+1. 添加了GetMBRs()函数，用以得到R树索引中的所有MBR；
+2. 删去了原来代码中对log4net类库（主要用以在运行在输出日志）的依赖；
+能够编译成一个dll文件，供其它项目引用。
