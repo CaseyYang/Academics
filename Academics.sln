@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraduationProject", "GraduationProject\GraduationProject.csproj", "{39E5A224-15DC-4953-8EDA-DE6C9F4708A2}"
 EndProject
@@ -16,6 +16,10 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WordSegmentationByHMM_1", "WordSegmentationByHMM_1\WordSegmentationByHMM_1.vcxproj", "{318C8F3C-AB1A-428B-8B0D-BF2F48288A62}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WordSegmentationByHMM_2", "WordSegmentationByHMM_2\WordSegmentationByHMM_2.vcxproj", "{C99CF8FD-97DF-40B8-9206-C249940E1908}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WAP_Problem1", "WAP_Problem1\WAP_Problem1.vcxproj", "{2FAD1631-5285-439F-AA55-0E3DDDAFD18E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindRouteByDynamicPopularity", "FindRouteByDynamicPopularity\FindRouteByDynamicPopularity.vcxproj", "{77D371A3-2146-4BA9-88E9-1F9F4A7C7F45}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -119,6 +123,34 @@ Global
 		{C99CF8FD-97DF-40B8-9206-C249940E1908}.Release|Win32.Build.0 = Release|Win32
 		{C99CF8FD-97DF-40B8-9206-C249940E1908}.Release|x86.ActiveCfg = Release|Win32
 		{C99CF8FD-97DF-40B8-9206-C249940E1908}.Release|x86.Build.0 = Release|Win32
+		{2FAD1631-5285-439F-AA55-0E3DDDAFD18E}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{2FAD1631-5285-439F-AA55-0E3DDDAFD18E}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{2FAD1631-5285-439F-AA55-0E3DDDAFD18E}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{2FAD1631-5285-439F-AA55-0E3DDDAFD18E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2FAD1631-5285-439F-AA55-0E3DDDAFD18E}.Debug|Win32.Build.0 = Debug|Win32
+		{2FAD1631-5285-439F-AA55-0E3DDDAFD18E}.Debug|x86.ActiveCfg = Debug|Win32
+		{2FAD1631-5285-439F-AA55-0E3DDDAFD18E}.Debug|x86.Build.0 = Debug|Win32
+		{2FAD1631-5285-439F-AA55-0E3DDDAFD18E}.Release|Any CPU.ActiveCfg = Release|Win32
+		{2FAD1631-5285-439F-AA55-0E3DDDAFD18E}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{2FAD1631-5285-439F-AA55-0E3DDDAFD18E}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{2FAD1631-5285-439F-AA55-0E3DDDAFD18E}.Release|Win32.ActiveCfg = Release|Win32
+		{2FAD1631-5285-439F-AA55-0E3DDDAFD18E}.Release|Win32.Build.0 = Release|Win32
+		{2FAD1631-5285-439F-AA55-0E3DDDAFD18E}.Release|x86.ActiveCfg = Release|Win32
+		{2FAD1631-5285-439F-AA55-0E3DDDAFD18E}.Release|x86.Build.0 = Release|Win32
+		{77D371A3-2146-4BA9-88E9-1F9F4A7C7F45}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{77D371A3-2146-4BA9-88E9-1F9F4A7C7F45}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{77D371A3-2146-4BA9-88E9-1F9F4A7C7F45}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{77D371A3-2146-4BA9-88E9-1F9F4A7C7F45}.Debug|Win32.ActiveCfg = Debug|Win32
+		{77D371A3-2146-4BA9-88E9-1F9F4A7C7F45}.Debug|Win32.Build.0 = Debug|Win32
+		{77D371A3-2146-4BA9-88E9-1F9F4A7C7F45}.Debug|x86.ActiveCfg = Debug|Win32
+		{77D371A3-2146-4BA9-88E9-1F9F4A7C7F45}.Debug|x86.Build.0 = Debug|Win32
+		{77D371A3-2146-4BA9-88E9-1F9F4A7C7F45}.Release|Any CPU.ActiveCfg = Release|Win32
+		{77D371A3-2146-4BA9-88E9-1F9F4A7C7F45}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{77D371A3-2146-4BA9-88E9-1F9F4A7C7F45}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{77D371A3-2146-4BA9-88E9-1F9F4A7C7F45}.Release|Win32.ActiveCfg = Release|Win32
+		{77D371A3-2146-4BA9-88E9-1F9F4A7C7F45}.Release|Win32.Build.0 = Release|Win32
+		{77D371A3-2146-4BA9-88E9-1F9F4A7C7F45}.Release|x86.ActiveCfg = Release|Win32
+		{77D371A3-2146-4BA9-88E9-1F9F4A7C7F45}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
