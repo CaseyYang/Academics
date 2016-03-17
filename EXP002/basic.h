@@ -1,0 +1,14 @@
+//#pragma once
+#include <iostream>
+#include <fstream>
+#include <time.h>
+#include <cmath>
+#include <string>
+#include <cstdlib>
+#include <iomanip>
+#include <vector>
+#include <list>
+#include <queue>
+#include <map>
+#include <algorithm>
+#include "Point.h"
